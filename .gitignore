@@ -1,0 +1,14 @@
+#vscode ignore
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+#ignore these subdirectoies
+Pyllow/redfin-csv/
+Pyllow/zillow-csv/
+
+#ignore these file types
+*.csv
+Pyllow/geckodriver.log
